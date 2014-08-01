@@ -1,3 +1,0 @@
-name: example-python-django
-services:
-  ${name}-db: mysql

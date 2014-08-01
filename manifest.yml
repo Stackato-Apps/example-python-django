@@ -1,0 +1,5 @@
+applications:
+- name: example-python-django
+  services:
+    ${name}-db:
+      type: mysql
